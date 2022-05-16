@@ -14,6 +14,7 @@ public class Baekjoon_04673 {
 			int now = i;
 			while(now <= 10000) {
 				int next = now;
+				if(chk[next]) break;
 				chk[next] = true;
 				int sum = now;
 				
