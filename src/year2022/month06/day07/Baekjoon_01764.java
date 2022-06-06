@@ -1,3 +1,4 @@
+package year2022.month06.day07;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
