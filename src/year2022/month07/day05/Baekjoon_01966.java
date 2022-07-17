@@ -1,4 +1,4 @@
-package year2022.month07.day04;
+package year2022.month07.day05;
 //프린터 큐
 
 import java.awt.Point;

@@ -1,4 +1,4 @@
-package year2022.month07.day04;
+package year2022.month07.day05;
 
 import java.io.BufferedReader;
 import java.io.IOException;
